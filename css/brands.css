@@ -618,3 +618,12 @@ button:hover,
 .button.button-letterboxd:focus {
   filter: brightness(90%);
 }
+
+
+.email {
+	width: 220px;
+}
+
+.gpg {
+	width: 70px;
+}
